@@ -112,7 +112,7 @@
       }
     }
   },
-  "name": "test_git",
+  "name": "test_git (gus)",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -168,11 +168,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1597854055908
+    "lastModifiedOn": 1597854058055
   },
   "creationTag": {
     "versionNumber": 0,
@@ -181,7 +181,7 @@
     },
     "lastModifiedOn": 1597853974334
   },
-  "shortDesc": "The project *test_git* was created by Administrator on Aug 19th 2020",
+  "shortDesc": "The project *test_git* was created by Administrator on Aug 19th 2020\nThe project *TEST_GIT_GUS* was copied from *TEST_GIT* on *312908af3ad3ec798b7d1a9056d55f43655d389f* branch by Administrator on Aug 19th 2020",
   "tags": [
     "duplicated"
   ],
