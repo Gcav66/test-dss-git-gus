@@ -113,7 +113,6 @@
     }
   },
   "name": "test_git",
-  "projectStatus": "Sandbox",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -168,6 +167,13 @@
       "checks": []
     }
   },
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "admin"
+    },
+    "lastModifiedOn": 1597854055908
+  },
   "creationTag": {
     "versionNumber": 0,
     "lastModifiedBy": {
@@ -176,7 +182,9 @@
     "lastModifiedOn": 1597853974334
   },
   "shortDesc": "The project *test_git* was created by Administrator on Aug 19th 2020",
-  "tags": [],
+  "tags": [
+    "duplicated"
+  ],
   "customFields": {},
   "checklists": {
     "checklists": [
